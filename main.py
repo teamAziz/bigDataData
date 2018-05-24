@@ -6,7 +6,7 @@ def addition(x,y):
     return x + y
 
 def sucksAtBiking(name):
-    if namme == "Ashraf":
+    if name == "Ashraf":
         return False
     else:
         return True
