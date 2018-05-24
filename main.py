@@ -6,7 +6,7 @@ def addition(x,y):
     return x + y
 
 def ashrafSucksAtBiking(name):
-    print(name)
+	return name
 
 print(ashrafSucksAtBiking("zaheen"))
 
