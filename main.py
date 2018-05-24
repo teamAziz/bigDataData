@@ -5,8 +5,13 @@ print("hello world")
 def addition(x,y):
     return x + y
 
-def ashrafSucksAtBiking(name):
-	return name
+def sucksAtBiking(name):
+    if namme == "Ashraf":
+        return False
+    else:
+        return True
 
-print(ashrafSucksAtBiking("zaheen"))
+print(sucksAtBiking("zaheen"))
 
+
+   
