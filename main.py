@@ -8,4 +8,5 @@ def addition(x,y):
 def ashrafSucksAtBiking(name):
     print(name)
 
+print(ashrafSucksAtBiking("zaheen"))
 
